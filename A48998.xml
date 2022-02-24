@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune Concilium tentum in Camera Guildhall civitas London, die Mercurii, vicesimo tertio die Octobris, anno Domini millesimo sexcentesimo septuagesimo secundo ... an Act for the Weighing of Goods at the King's Beam.</title>
+            <title>Act for the Weighing of Goods at the King's Beam</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48998</idno>
+            <idno type="STC">Wing L2854K</idno>
+            <idno type="STC">ESTC R39348</idno>
+            <idno type="EEBO-CITATION">18368528</idno>
+            <idno type="OCLC">ocm 18368528</idno>
+            <idno type="VID">107421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune Concilium tentum in Camera Guildhall civitas London, die Mercurii, vicesimo tertio die Octobris, anno Domini millesimo sexcentesimo septuagesimo secundo ... an Act for the Weighing of Goods at the King's Beam.</title>
+                  <title>Act for the Weighing of Goods at the King's Beam</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>4 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>MDCLXXII [1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Broadside in 4 leaves.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weights and measures --  Law and legislation --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="decree">
+            <pb n="1" facs="tcp:107421:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>Commune Concilium tentum in Camera <hi>Guildhall</hi> Civitatis <hi>London,</hi> 
+                  <date>die <hi>Mercurii,</hi> viceſimo tertio die <hi>Octobris,</hi> Anno Domini milleſimo ſexcenteſimo ſeptuageſimo ſecundo, Annoque Regni Domini noſtri CAROLI Secundi, Dei gratia, <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hiberniae</hi> Regis, Fidei Defenſoris, &amp;c. vice<g ref="char:EOLhyphen"/>ſimo quarto,</date> coram <hi>Georgio VVaterman</hi> Milite, Majore Civitatis <hi>London, Roberto Hanſon</hi> Milite, Domino Majore Electo dictae Civitatis, <hi>Thoma Alleyn</hi> Milite &amp; Baronetto, <hi>Johanne Laurence, Ricardo Ford, Willielmo Hooker</hi> &amp; <hi>Joſepho Sheldon</hi> Militibus, Aldermannis, <hi>Patiente Ward</hi> Armigero, Aldermanno, &amp; <hi>Willielmo Pritchard</hi> Milite, Aldermanno, uno Vicecomitum dictae Civitatis, necnon majore parte Com<g ref="char:EOLhyphen"/>muniariorum de Communi Concilio ejuſdem Civitatis tunc &amp; ibidem aſſemblat.</dateline>
+            </opener>
+            <head>An Act for the <hi>Weighing of Goods</hi> at the KING's Beam.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as it appertaineth to Iuſtice and true Dealing, That to all men be uprightly given true Weight and Meaſure; and for that cauſe there are, and from the time whereof the memory of man is not to the contrary, have been within this City of <hi>London</hi> and Liberties thereof, Common Beams uſually called <hi>The King's Beams,</hi> for the more iuſt and equal weighing of all Goods and Merchandizes ſold or bartered within the ſaid City and Liberties thereof; at which Beams there are and have been during all the time aforeſaid, certain ſworn Officers, who by their duty ought to attend the weighing of all ſuch Goods and Merchandizes.</p>
+            <p>And whereas the Office of Tronage or Weighing of all Goods and Merchandizes within the ſaid City and Liberties thereof hath been heretofore lawfully and rightfully, by ſeveral Royal and antient Charters, granted unto and veſted in the Maior, Communalty and Citizens of the ſaid City: And more particularly, King Edward the Fourth in the eighteenth year of his Reign, by his Letters Patents under the Great Seal of <hi>England,</hi> did grant and confirm unto the ſaid Mator, Communalty and Citizens of the ſaid City and their Succeſſors, ſeveral Offices and the Duties thereunto belonging, and among them, the ſaid Office of Weighing all ſorts of Merchandizes: the Grant of which Office, together with the Decupation, Exerciſes, Diſpoſitions, Ordinances, Corrections and Gifts of the ſame was afterwards, by a certain Act of Parliament made in the third year of the Reign of King <hi>Henry</hi> the Eighth, ratified and confirmed to the ſaid Maior and Communalty and Citizens and their Succeſſors for ever.</p>
+            <pb n="2" facs="tcp:107421:2" rendition="simple:additions"/>
+            <p> And whereas by virtue of the ſaid Grants and Confirmations, this Court hath from time to time made and enaited enaited ſeveral Diſpoſitions and Ordinances for the well ordering and executing of the ſaid Office and Duties thereunto belonging, as was moſt ſuitable to the ſeveral and re<g ref="char:EOLhyphen"/>ſpective times, wherein they were made and ordained. And foraſmuch as ſeveral Diſorders have of late been committed in, and Abuſes obtruded upon the ſaid Office: For the Reformation of the one and Prevention of the other for the time to come; Be it declared and enacted, and it is hereby declared and enacted by the Right Honourable the Lord Maior, the Right Worſhipful the Aldermen his Brethren, and the Commons in this Common Council aſſembled, That no perſon bring at this preſent, or which hereafter ſhall be, a Freeman of the ſaid City, ſhall from hence<g ref="char:EOLhyphen"/>forth colour or own any Vnfree-man, Foreiners or Strangers Goods, or ſhall buy and receive, or cauſe to be bought and received of any Vnfree man, Foreiner or Stranger any manner of Goods, Wares or Merchandizes which ſhall come or be brought into the ſaid City of <hi>London</hi> or Liberties thereof, commonly accuſtomed to be bought and ſold by Weight as aforeſaid, unleſs be or they ſo buying and ſelling the ſaid Goods, Wares or Merchandizes, or one of them, at the coming or bringing thereof to the ſaid City, ſhall cauſe the ſame to be weighed at the fore-mentioned Common Beams commonly called <hi>The King's Beams,</hi> or one of them. And alſo that no ſuch Freeman or Freemen ſhall keep or retain in his or their Cuſtody or Poſſeſſion any Goods, Wares or Merchandizes appointed or intended by this or any former Act of this Court to be weighed at the ſaid Beams, but ſhall before or after the receipt of the ſaid Wares or Merchandizes ſo kept and retained, cauſe the ſame to be weighed at the ſaid Common Beams or one of them, before the ſame ſhall be delivered or conveved to any other place or places whatſoever, upon pain that all and ſingular the Oftender or Offenders in any of the ſaid caſes ſhall for the firſt Offence of ſuch colouring or owning of every twenty pounds value of Vnfree men, Foreiners or Strangers Goods, either by Copartuerſhip or otherwiſe, forfeit the ſum of twenty ſhillings, and alſo for every Draught of ſuch Wares and Merchandizes as ſhall be ſo bought, brought or received by any of the ſaid Freemen from any ſuch Vnfree men, Foreiners or Strangers, or kept or retained in his or their Poſſeſſion, and delivered without weighing as aforeſaid, contrary to the true meaning of this or any former Ans to that purpoſe, the Sum of Thirteen ſhillings and four pence: and for the ſecond Offence in any of the ſaid Caſes ſhall <hi>ipſo facto</hi> be disfranchiſed, and recorded as a Violater of the Faith and Oath be hath given to the ſaid City.</p>
+            <p>And for the Prevention of all fraudulent and clandeſime dealings which may be hereafter practiſed by any Freeman of this City, by buying of and bartering for Goods and Merchandizes of Foreiners and Strangers without the Freedom of the ſaid City, to the intent to avoid the iuſt Duty of weighing ſuch Goods and Merchandizes at the ſaid Common Beams: Be it further enacted by the Authority aforeſaid, That if any Freeman or Freemen of this City ſhall without the City and Liverties thereof, and within any of the Places mentioned within the common Weekly Bills of Mortalit<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, contract for and buy any Goods and Merchandizes that ſhould and of right ought to be weighed at the ſaid Common Beams, and ſhall bring ſuch Goods and Merchandizes into his or their Houſe or Houſes. Shops or Ware houſes within the ſaid City or Li<g ref="char:EOLhyphen"/>berties thereof, before ſuch time as ſuch Goods and Merchandizes be brought to be weighed at the ſaid Common Beams or our of them, then ſuch Freeman and Freemen ſhall forfeit and pay double ſuch Duty, that ſhould and of right ought to have been paid for the weighing of ſuch Goods and Merchandizes, in caſe they had been weighed at the ſaid Common Beams or one of them.</p>
+            <p>And be it Enacted by the Authority aforeſaid, that no perſon or perſons whatſoever ſhall at any time hereafter be admitted as Superviſor or Superviſors, or as any other Officer or Officers whatſoever for the weighing of Goods and Merchandizes at the ſaid Common Beam com<g ref="char:EOLhyphen"/>monly called <hi>The Kings Beam,</hi> or be allowed in any wiſe to keep, uſe or exerciſe any Beam for the weighing of any Goods or Merchandizes whatſoever between any Bayer and Seller within the ſaid City and Liberties thereof, other than ſuch, as ſhall firſt be thereunto authorized and licenſed by a Committee to be annually choſen by this Court, which ſhall conſiſt of three Aldermen and ſir Commoners, whereof three to be a <hi>Quorum,</hi> one being an Alderman. And if any perſon ſhall preſume to act contrary hereunto in weighing of Goods at any other Beam, or to keep uſe or exerciſe any Beam for weighing between Buyer and Seller of ſuch Goods within the ſaid City and Liberties thereof, without being there<g ref="char:EOLhyphen"/>unto licenſed and appointed as aforeſaid, ſuch perſon or perſons for every ſuch Offence ſhall forfeit and pay the Sum of Four pounds and nine<g ref="char:EOLhyphen"/>teen ſhillings.</p>
+            <p>Provided always and be it enaited by the Authority aforeſaid, that this Act or any thing herein contained ſhall not be conſtrued or erpounded to debar or binder any Freeman or Freemen of the ſaid City from uſing of his or their own Beam or Beams in his or their own Houſe or Houſes, Shop or Shops, Ware-houſe or Ware houſes, or elſewhere for the weighing of his or their own prover Goods or Merchandizes in ſuch manner as hath heretofore been uſed and accuſtomed, or to charge any Foreiner or Foreiners with any further or other Duties or Sums of money for or by reaſon of the weighing of his or their Wares, Goods and Merchandizes at ſaid Common Beam, other than according to the ſeveral Rates hereafter mentioned and expreſſed, any thing to the contrary in this or any former Act or Acts contained in any wiſe not withſtanding.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if at any time hereafter any perſon or perſons Officer or Weigher employed or to be employed as aforeſaid, ſhall be accuſed and convicted before the Lord Maior and Court of Aldermen of the ſaid City, of falſe Weights or for Diſhoneſty or Vnfaithfulneſs in the Obſervance and due Performance of his or their Duty, that then ſuch perſon, Officer or Weigher ſhall <hi>ipſo facto</hi> be diſcharged of the ſaid Office or Deputation.<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:107421:3" rendition="simple:additions"/>
+            <p> them: Be it further Enacted by the Authority aforeſaid, That an exact Regiſter ſhall be kept in the ſaid Office, of all the Proceed<g ref="char:EOLunhyphen"/>ings of Weighing between Buyers and Sellers, that due Proof may be made thereof by the Perſon or Perſons to be appointed for keeping of the ſame, if occaſion ſhall require: And that the keeper of the ſaid Regiſter ſhall deliver unto the Buyer and Seller, (if thereunto required) a true Copy of ſo much thereof, as he or they are concerned in, without any Fees or other Reward for the ſame.</p>
+            <p>And foraſmuch as the Weigh-houſe before the late dreadful Fire which happened in <hi>London,</hi> was and time out of mind hath been the Common Market appointed for the Buying and Selling of Hops within this City: and the ſaid Weigh-houſe was by the ſaid Fire burnt and conſumed, by reaſon whereof the ſaid Market hath been of late time diſcontinued, but another Weigh-houſe more large and commodious for the reception of Hops, hath ſince been built in or near Little <hi>Eaſte<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eap</hi> in the Ward of <hi>Billinſgate</hi> within the ſaid City of <hi>L<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Be it Enacted by the Authority aforeſaid, That the ſaid Weigh-houſe ſo built and ſituated and appointed ſhall from henceforth be and be deemed and uſed as and for the Common Office for Tronage and Weighing of all Goods and Merchandizes, and alſo the Market aforeſaid. And it is hereby further Enacted and Declared, That it is and ſhall be the Common Market for the buying and ſelling of all Hops of <hi>Engliſh</hi> Growth brought in by Foreiners: and that no Hops of <hi>Engliſh</hi> Growth ſhall at any time hereafter be weighed by any of the Weighers of this City, ſave at that Weigh-houſe only, or by ſome of the Beams there and thereunto belonging.</p>
+            <p>And be it Enacted by the Authority aforeſaid, That all and every the Rates and Forfeitures in this Act mentioned ſhall be ſuch for and recovered by Action of Debt to be commenced in the name of the Chamberlain of the ſaid City for the time being, in any of the Courts of Record within the ſaid City the one moiety whereof, when recovered, (Charges of Suit being firſt deduited, ſhall be paid to the Trea<g ref="char:EOLhyphen"/>ſurer of the Hoſpital of St. <hi>Bertholomew, London,</hi> for the time being; and the other moiety to ſuch perſon or perſons who ſhall ſue for the ſame: In which Action or Actions no Elloin, Protection or Wager of Law ſhall be allowed. And that the Chamberlain of the ſaid City for the time being in all Suints to be proſecuted by virtue of this Act, againſt any Offender or Offenders contrary to the ſame, ſhall recover his reaſonable Coſt of Suit expended in and about the Proſecution thereof: And if the Suit paſs for the Defendant, then ſuch Defendant to recover his Coſt: And that the Chamberlain for the time being ſhall not have power to take leſs of any Offender or Offenders, than herein is limited to be forfeited for every Offence.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to Honourable City of <hi>LONDON,</hi> at his Houſe in <hi>Alderſgateſtreet.</hi> MDCLXXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
